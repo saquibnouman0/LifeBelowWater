@@ -132,8 +132,10 @@ body {
     height: 70px;
   }
   iframe{
+/*     margin-top: 30px;
+    margin-right: 153px; */
     margin-top: 30px;
-    margin-right: 153px;
+    margin-right: 152px;
   }
   
   @media (max-width: 992px) {
